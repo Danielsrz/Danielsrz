@@ -1,16 +1,16 @@
 ### Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 -----------
 <a><img src="https://github.com/Danielsrz/Danielsrz/blob/main/Developer%20activity-bro.svg" align="right" height="250" /></a>
-<h4>I'm Daniel Suarez, a fullstack developer from <img src="https://www.flaticon.es/svg/vstatic/svg/299/299750.svg?token=exp=1619453855~hmac=48be61c267dd856d52eaed3bcf6feb16" width="13"> Buenos Aires, Argentina. </h4>
+<h4>I'm Daniel Suarez, a fullstack developer from Buenos Aires, Argentina <img src="https://www.flaticon.es/svg/vstatic/svg/299/299750.svg?token=exp=1619453855~hmac=48be61c267dd856d52eaed3bcf6feb16" width="13"> </h4>
 
 
 #### ⚡ About me
 - 💼 I'm currently working on **[Huenei IT Services](https://www.huenei.com)** in a project with **Ionic Framework**
 - 🎓 I'm studying in **[Universidad Nacional del Oeste](https://www.uno.edu.ar)**
 - 🌱 I’m currently learning **Ionic** 
-- ⚙️ My recent project: **[uWork](https://github.com/Danielsrz/uwork-dev)**
-- 👣 Next steps: Learn **React** and **React Native**
-- 📫 Contact: **[LinkedIN](https://www.linkedin.com/in/dansuarez95/)**
+- ⚙️ My recent project: **[uWork](https://github.com/Danielsrz/uwork-dev)** 
+- 👣 Next steps: Learn **React** and **React Native** 
+- 📫 Contact: **[Linkedin](https://www.linkedin.com/in/dansuarez95/)**
 &nbsp;
 -----------
 
@@ -31,7 +31,7 @@
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql" />
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479a1?style=flat-square&logo=mysql&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-  <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" />
+  <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-grey?style=flat-square&logo=github" />
   </p>
   <p>
   <img alt="VS Code" src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code" />
